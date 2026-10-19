@@ -1,16 +1,9 @@
 <div align="center">
-  <img src="assets/banner.png" width="100%" alt="MELODEXS" />
-</div>
-
-<br />
-
-<div align="center">
 
 ### Okoh Destiny
 #### Full-Stack Developer · Nigeria
 
-I design, build, test and ship products end to end under the **MELODEXS** label —
-from FastAPI backends and PostgreSQL schemas to React frontends and Expo mobile apps.
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&weight=600&size=22&pause=1300&color=007AFF&center=true&vCenter=true&width=650&lines=Design+it.+Build+it.+Test+it.+Ship+it.;I+build+products+under+the+MELODEXS+label;FastAPI+%C2%B7+React+%C2%B7+React+Native+%C2%B7+Expo;Multi-provider+VTU+fulfilment+%7C+Offline-first+music+apps;From+Nigeria+to+the+world+%F0%9F%8C%8D" alt="Typing SVG" /></a>
 
 <br />
 
@@ -72,7 +65,5 @@ from FastAPI backends and PostgreSQL schemas to React frontends and Expo mobile 
 ---
 
 <div align="center">
-  <sub><i>"Design it. Build it. Test it. Ship it."</i></sub>
-  <br /><br />
   <img src="https://img.shields.io/badge/Always-building-007AFF?style=flat-square" />
 </div>
