@@ -121,9 +121,9 @@ I build products the way they'll need to be maintained: clear data models, teste
 
 <img src="assets/melodexs-divider.svg" width="100%" alt="" />
 
-<img src="assets/melodexs-logo.png" width="110" alt="MELODEXS logo — blue M-mark with a flame cut-out above the MELODEXS wordmark" />
+<img src="assets/melodexs-logo-black.png" width="150" alt="MELODEXS logo — gradient blue-to-lime M above the MELODEXS wordmark on black" />
 
-### BUILD • CONNECT • SHIP
+### BUILD • CREAT • DESIGN
 
 <sub>MELODEXS · Building digital solutions. Connecting possibilities.</sub>
 
