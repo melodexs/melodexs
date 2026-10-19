@@ -112,6 +112,7 @@ I build products the way they'll need to be maintained: clear data models, teste
 ## 📊 GitHub Activity
 
 <div align="center">
+  <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=melodexs&hide_border=true&background=0B1526&stroke=D1FF42&ring=D1FF42&fire=D1FF42&currStreakLabel=D1FF42&sideLabels=C7D1DD&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=C7D1DD" alt="melodexs GitHub contribution streak: current and longest streaks" />
   <img height="150" src="https://github-readme-stats.vercel.app/api?username=melodexs&show_icons=true&hide_border=true&bg_color=0B1526&title_color=D1FF42&icon_color=D1FF42&text_color=C7D1DD" alt="melodexs GitHub statistics: commits, pull requests, reviews and issues" />
   <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=melodexs&layout=compact&hide_border=true&bg_color=0B1526&title_color=D1FF42&icon_color=D1FF42&text_color=C7D1DD" alt="Most used programming languages across melodexs repositories" />
 </div>
