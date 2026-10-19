@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-label="MELODEXS — Software Developer and Product Builder. Building digital solutions. Connecting possibilities.">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#071026"/>
+      <stop offset="1" stop-color="#0B2044"/>
+    </linearGradient>
+    <linearGradient id="rule" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#0251B0"/>
+      <stop offset="1" stop-color="#D1FF42"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="300" fill="url(#bg)"/>
+  <path d="M0 14 H14 V0" fill="none" stroke="#0251B0" stroke-width="2"/>
+  <path d="M1200 14 H1186 V0" fill="none" stroke="#0251B0" stroke-width="2"/>
+  <path d="M0 286 H14 V300" fill="none" stroke="#D1FF42" stroke-width="2"/>
+  <path d="M1200 286 H1186 V300" fill="none" stroke="#D1FF42" stroke-width="2"/>
+  <text x="600" y="128" text-anchor="middle" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="64" font-weight="800" letter-spacing="14" fill="#FFFFFF"><tspan fill="#3B82F5">M</tspan>ELODEXS</text>
+  <rect x="480" y="146" width="240" height="4" rx="2" fill="url(#rule)"/>
+  <text x="600" y="192" text-anchor="middle" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="20" font-weight="400" letter-spacing="5" fill="#C7D1DD">SOFTWARE DEVELOPER • PRODUCT BUILDER</text>
+  <text x="600" y="240" text-anchor="middle" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="24" font-weight="700" letter-spacing="6" fill="#FFFFFF">BUILDING DIGITAL SOLUTIONS.</text>
+  <text x="600" y="272" text-anchor="middle" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="24" font-weight="700" letter-spacing="6" fill="#D1FF42">CONNECTING POSSIBILITIES.</text>
+</svg>
