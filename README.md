@@ -65,6 +65,8 @@ My focus is on creating things that are **useful, reliable, and enjoyable to use
 
 ![Contribution snake animation devouring the melodexs contribution graph, regenerated daily by GitHub Actions](https://raw.githubusercontent.com/melodexs/melodexs/output/github-contribution-grid-snake-dark.svg)
 
+![Contribution city skyline of melodexs GitHub contributions: buildings sized by weekly activity with lit windows for active days, regenerated daily by GitHub Actions](https://raw.githubusercontent.com/melodexs/melodexs/output/skyline.svg)
+
 </div>
 
 ## 🌱 Current Focus
