@@ -63,6 +63,8 @@ My focus is on creating things that are **useful, reliable, and enjoyable to use
 
 ![Most used programming languages across melodexs repositories, shown in each language's official color](https://github-readme-stats.vercel.app/api/top-langs/?username=melodexs&layout=compact&hide_border=true&bg_color=0251B0&title_color=D1FF42&icon_color=D1FF42&text_color=C7D1DD)
 
+![Contribution snake animation devouring the melodexs contribution graph, regenerated daily by GitHub Actions](https://raw.githubusercontent.com/melodexs/melodexs/output/github-contribution-grid-snake-dark.svg)
+
 </div>
 
 ## 🌱 Current Focus
