@@ -114,6 +114,9 @@ Retrieval-augmented generation (RAG) chatbot experiments.
 ## 🔗 Connect With Me
 
 - GitHub: [melodexs](https://github.com/melodexs)
+- LinkedIn: [Add your profile]
+- Portfolio: [Add your site]
+- Email: okohdestiny882@gmail.com
 
 ## ✨ Closing Note
 
