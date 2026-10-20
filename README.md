@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="assets/melodexs-corners-top.svg" width="100%" alt="MELODEXS corner accents" />
+
 <img src="assets/melodexs-logo-black.png" width="150" alt="MELODEXS logo — gradient blue-to-lime M above the MELODEXS wordmark on a black background" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=800&color=0251B0&center=true&vCenter=true&width=600&repeat=false&lines=Hi%2C+I'm+MELODY" alt="Animated line typing out: Hi, I'm MELODY" width="600" /> 👋
@@ -133,5 +135,7 @@ Retrieval-augmented generation (RAG) chatbot experiments.
 *Always learning. Always building. Thanks for stopping by!* 🚀
 
 <sub>© 2026 MELODEXS</sub>
+
+<img src="assets/melodexs-corners-bottom.svg" width="100%" alt="MELODEXS corner accents" />
 
 </div>
