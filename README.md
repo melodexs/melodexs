@@ -2,7 +2,7 @@
 
 <img src="assets/melodexs-logo-black.png" width="150" alt="MELODEXS logo — gradient blue-to-lime M above the MELODEXS wordmark on a black background" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=800&color=0251B0&center=true&vCenter=true&width=600&repeat=false&lines=Hi%2C+I'm+MELODY" alt="Animated line typing out: Hi, I'm MELODY" width="600" /> 👋
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=800&color=0251B0&center=true&vCenter=true&width=600&repeat=false&lines=Hi%2C+I'm+MELODY" alt="Animated line typing out: Hi, I'm MELODY" width="600" /> 
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=619&size=24&pause=1000&color=0251B0&center=true&vCenter=true&width=1000&lines=Developer+%7C+Learner+%7C+Graphic+Designer+%7C+Builder+%7C+Problem+Solver" alt="Animated typing line reading: Developer | Learner | Graphic Designer | Builder | Problem Solver" />
 
