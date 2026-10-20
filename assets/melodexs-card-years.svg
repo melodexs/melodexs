@@ -1,0 +1,45 @@
+<svg xmlns='http://www.w3.org/2000/svg' width='490' height='300' viewBox='0 0 490 300' role='img'>
+<rect width='490' height='300' rx='12' fill='#0B1526' stroke='#0251B0' stroke-opacity='0.55'/>
+<rect x='24' y='26' width='8' height='16' fill='#D1FF42'/>
+<text x='40' y='39' font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size='17' font-weight='700' fill='#D1FF42'>YEARS</text>
+<text x='24' y='62' font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size='11.5' fill='#C7D1DD'>contributions by year and month</text>
+<text x='24' y='127' font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size='13' font-weight='700' fill='#FFFFFF'>2026</text>
+<rect x='76' y='105' width='24' height='24' rx='3' fill='#13233F'/>
+<text x='88.0' y='145' text-anchor='middle' font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size='9.5' fill='#C7D1DD'>J</text>
+<rect x='103' y='105' width='24' height='24' rx='3' fill='#13233F'/>
+<text x='115.0' y='145' text-anchor='middle' font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size='9.5' fill='#C7D1DD'>F</text>
+<rect x='130' y='105' width='24' height='24' rx='3' fill='#13233F'/>
+<text x='142.0' y='145' text-anchor='middle' font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size='9.5' fill='#C7D1DD'>M</text>
+<rect x='157' y='105' width='24' height='24' rx='3' fill='#13233F'/>
+<text x='169.0' y='145' text-anchor='middle' font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size='9.5' fill='#C7D1DD'>A</text>
+<rect x='184' y='105' width='24' height='24' rx='3' fill='#0251B0'/>
+<text x='196.0' y='145' text-anchor='middle' font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size='9.5' fill='#C7D1DD'>M</text>
+<text x='196.0' y='159' text-anchor='middle' font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size='10.5' fill='#FFFFFF'>2</text>
+<rect x='211' y='105' width='24' height='24' rx='3' fill='#13233F'/>
+<text x='223.0' y='145' text-anchor='middle' font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size='9.5' fill='#C7D1DD'>J</text>
+<rect x='238' y='105' width='24' height='24' rx='3' fill='#13233F'/>
+<text x='250.0' y='145' text-anchor='middle' font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size='9.5' fill='#C7D1DD'>J</text>
+<rect x='265' y='105' width='24' height='24' rx='3' fill='#13233F'/>
+<text x='277.0' y='145' text-anchor='middle' font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size='9.5' fill='#C7D1DD'>A</text>
+<rect x='292' y='105' width='24' height='24' rx='3' fill='#3B7AD9'/>
+<text x='304.0' y='145' text-anchor='middle' font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size='9.5' fill='#C7D1DD'>S</text>
+<text x='304.0' y='159' text-anchor='middle' font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size='10.5' fill='#FFFFFF'>60</text>
+<rect x='319' y='105' width='24' height='24' rx='3' fill='#D1FF42'/>
+<text x='331.0' y='145' text-anchor='middle' font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size='9.5' fill='#C7D1DD'>O</text>
+<text x='331.0' y='159' text-anchor='middle' font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size='10.5' fill='#FFFFFF'>98</text>
+<rect x='346' y='105' width='24' height='24' rx='3' fill='#13233F'/>
+<text x='358.0' y='145' text-anchor='middle' font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size='9.5' fill='#C7D1DD'>N</text>
+<rect x='373' y='105' width='24' height='24' rx='3' fill='#13233F'/>
+<text x='385.0' y='145' text-anchor='middle' font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size='9.5' fill='#C7D1DD'>D</text>
+<text x='466' y='135' text-anchor='end' font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size='15' font-weight='700' fill='#D1FF42'>160</text>
+<text x='466' y='151' text-anchor='end' font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size='10' fill='#C7D1DD'>total</text>
+<rect x='76' y='181' width='11' height='11' rx='2' fill='#13233F'/>
+<text x='92' y='191' font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size='10' fill='#C7D1DD'>0</text>
+<rect x='114' y='181' width='11' height='11' rx='2' fill='#0251B0'/>
+<text x='130' y='191' font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size='10' fill='#C7D1DD'>1-25</text>
+<rect x='170' y='181' width='11' height='11' rx='2' fill='#3B7AD9'/>
+<text x='186' y='191' font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size='10' fill='#C7D1DD'>26-75</text>
+<rect x='232' y='181' width='11' height='11' rx='2' fill='#D1FF42'/>
+<text x='248' y='191' font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size='10' fill='#C7D1DD'>76+</text>
+<text x='24' y='280' font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size='10' fill='#C7D1DD' fill-opacity='0.75'>contributions per month, shaded in four bands · account created May 2026</text>
+</svg>

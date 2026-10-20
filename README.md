@@ -73,6 +73,9 @@ My focus is on creating things that are **useful, reliable, and enjoyable to use
 <img src="assets/melodexs-card-collab.svg" width="49%" alt="Collaboration: 40 pull requests, 1 review and 6 issues authored in the last 30 days" />
 <img src="assets/melodexs-card-rhythm.svg" width="49%" alt="Commit rhythm heatmap by day of week and hour of day in Africa/Lagos time, lime cell for the busiest hour" />
 
+<img src="assets/melodexs-card-years.svg" width="49%" alt="Contributions by month for 2026: May 2, September 60, October 98, 160 total, shaded in four bands" />
+<img src="assets/melodexs-card-drift.svg" width="49%" alt="Language drift in lines added, last 30 days vs the 30 before: Python down 54 points, Markdown, YAML, JavaScript, TypeScript and JSON up" />
+
 </div>
 
 ## 🌱 Current Focus
