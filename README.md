@@ -67,6 +67,12 @@ My focus is on creating things that are **useful, reliable, and enjoyable to use
 
 ![Contribution city skyline of melodexs GitHub contributions: buildings sized by weekly activity with lit windows for active days, regenerated daily by GitHub Actions](https://raw.githubusercontent.com/melodexs/melodexs/output/skyline.svg)
 
+<img src="assets/melodexs-card-languages.svg" width="49%" alt="Language share by tracked bytes across non-fork repositories: Python 86.9%, JavaScript 7.7%, HTML 3.0%, TypeScript 2.1%" />
+<img src="assets/melodexs-card-activity.svg" width="49%" alt="Daily contribution counts over the last 30 days, peak day 41; 160 contributions in the last year" />
+
+<img src="assets/melodexs-card-collab.svg" width="49%" alt="Collaboration: 40 pull requests, 1 review and 6 issues authored in the last 30 days" />
+<img src="assets/melodexs-card-rhythm.svg" width="49%" alt="Commit rhythm heatmap by day of week and hour of day in Africa/Lagos time, lime cell for the busiest hour" />
+
 </div>
 
 ## 🌱 Current Focus
